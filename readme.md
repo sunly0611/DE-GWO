@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The DE-GWO algorithm is an algorithm based on the Grey Wolf algorithm for detecting epistasis interactions in GWAS data.
+The DE-GWO algorithm is an algorithm based on the Grey Wolf algorithm for detecting epistasis interactions in GWAS data. The article of DE-GWO algorithm is currently being submitted for publication.
 
 ## Usage
 
